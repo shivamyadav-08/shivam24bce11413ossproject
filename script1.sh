@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script 1: System Identity Report
 
-STUDENT_NAME="Shreyash"
+STUDENT_NAME="Shivam"
 SOFTWARE="Python"
 
 KERNEL=$(uname -r)
